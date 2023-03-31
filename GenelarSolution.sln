@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTest1", "GitTest1\GitTest1.csproj", "{BB5E0C16-0054-448C-B8C0-76363DD08D4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home1", "GitTest1\home1.csproj", "{BB5E0C16-0054-448C-B8C0-76363DD08D4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
